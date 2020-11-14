@@ -1,0 +1,8 @@
+value = 6
+
+number = (value + 6) * 20
+number = 75 / value
+phone = false
+
+angle = 90
+x = sin(angle)
